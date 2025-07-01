@@ -1,6 +1,6 @@
 /* Mime */
 [data-author-id="265988775937703937"] {
-    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
+    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
         content: "";
         display: block;
         position: absolute;
@@ -8,9 +8,9 @@
         right: 0px;
         width: 140px;
         height: 140px;
-        background: url(https://files.catbox.moe/e1ukcc.png) right bottom no-repeat;
-        background-position: 20% 9%;
-        background-size: 130%;
+        background: url(https://files.catbox.moe/klb9vj.png) right bottom no-repeat;
+        background-position: -270% 0%;
+        background-size: 105%;
         z-index: 1;
         
     }
@@ -19,7 +19,7 @@
 
 /* Toasty */
 [data-author-id="841764105748611082"] {
-    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
+    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
         content: "";
         display: block;
         position: absolute;
@@ -38,7 +38,7 @@
 
 /* Kassie */
 [data-author-id="873117745779200010"] {
-    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
+    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
         content: "";
         display: block;
         position: absolute;
@@ -57,7 +57,7 @@
 
 /* K0maru */
 [data-author-id="1319272354425081856"] {
-    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
+    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
         content: "";
         display: block;
         position: absolute;
@@ -76,7 +76,7 @@
 
 /* Don */
 [data-author-id="960250389863743528"] {
-    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
+    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
         content: "";
         display: block;
         position: absolute;
@@ -94,7 +94,7 @@
 
 /* HDN */
 [data-author-id="566368879442526228"] {
-    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
+    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
         content: "";
         display: block;
         position: absolute;
