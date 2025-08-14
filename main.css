@@ -8,9 +8,9 @@
         right: 0px;
         width: 140px;
         height: 140px;
-        background: url(https://files.catbox.moe/klb9vj.png) right bottom no-repeat;
-        background-position: -270% 0%;
-        background-size: 105%;
+        background: url(https://files.catbox.moe/oci6dk.png) right bottom no-repeat;
+        background-position: 22.5% 6.5%;
+        background-size: 150%;
         z-index: 1;
         
     }
@@ -55,26 +55,7 @@
 
 }
 
-/* K0maru */
-[data-author-id="1319272354425081856"] {
-    [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
-        content: "";
-        display: block;
-        position: absolute;
-        bottom: 0px;
-        right: 0px;
-        width: 140px;
-        height: 140px;
-        background: url(https://files.catbox.moe/0wizu3.png) right bottom no-repeat;
-        background-position: 100% 116%;
-        background-size: 75%;
-        z-index: 1;
-        
-    }
-
-}
-
-/* Don */
+/* Chara */
 [data-author-id="960250389863743528"] {
     [class^="message__5126c cozyMessage__5126c groupStart__5126c wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after, [class^="message__5126c cozyMessage__5126c groupStart__5126c gradient_c19a55 wrapper_c19a55 cozy_c19a55 zalgo_c19a55"]::after {
         content: "";
